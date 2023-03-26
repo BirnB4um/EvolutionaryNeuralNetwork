@@ -1,8 +1,6 @@
 #include <iostream>
 #include "EvolutionaryNeuralNetwork.h"
 
-using namespace std;
-
 
 struct Network {
 	EvolutionaryNeuralNetwork nn;
